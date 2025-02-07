@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "b1b25ea544c69efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "622ba38b0583a654",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddc7f731089e652c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/Control Theory/Control Strategies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control Strategies"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5adc237287f3d63",
+    "type": "split",
+    "children": [
+      {
+        "id": "e78e88067f2e6149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f835ab3bfea70f09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5e66d23fbcbf7588",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1fac06e178dc752f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "356d7e2811037fb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1613fae1e9999d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d49ae474dc439e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025/Command-Based Programming/Intro to Command Based Programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intro to Command Based Programming"
+            }
+          },
+          {
+            "id": "9300c67c95644c20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025/Command-Based Programming/Intro to Command Based Programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro to Command Based Programming"
+            }
+          },
+          {
+            "id": "77a4e6cb9da119ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e6ff62bd4573750",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025/Command-Based Programming/Intro to Command Based Programming.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro to Command Based Programming"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ddc7f731089e652c",
+  "lastOpenFiles": [
+    "2025/Command-Based Programming/Intro to Command Based Programming.md",
+    "2025/Control Theory/Control Strategies.md",
+    "2025/Control Theory",
+    "Command_Subsystems_Diag.png",
+    "2025/Glossary.md",
+    "Welcome.md",
+    "2025/Command-Based Programming",
+    "2025"
+  ]
+}
