@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "622ba38b0583a654",
+        "id": "4e903c9a7b300330",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc7f731089e652c",
+            "id": "114e9633a6220e9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Control Theory/Control Strategies.md",
+                "file": "Control Theory/Control Strategies.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddc7f731089e652c",
+  "active": "114e9633a6220e9a",
   "lastOpenFiles": [
+    "Command-Based Programming/Intro to Command Based Programming.md",
+    "Control Theory/Control Strategies.md",
     "2025/Command-Based Programming/Intro to Command Based Programming.md",
     "2025/Control Theory/Control Strategies.md",
     "2025/Control Theory",
